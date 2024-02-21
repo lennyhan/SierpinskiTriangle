@@ -2,7 +2,7 @@ public void setup()
 {
   background(209,244,255);
   size(800,800);
-  sierpinski(160,640,160); //480
+  sierpinski(160,640,480); //480
 }
 
 public void mouseDragged()//optional
